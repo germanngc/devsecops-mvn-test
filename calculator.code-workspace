@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DevSecOps with Maven Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+		},
+		"editor.wordWrap": "on"
+	}
+}
