@@ -35,4 +35,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void testAdd()
+    {
+        assertEquals(5, App.add(2, 3), 0);
+    }
 }
